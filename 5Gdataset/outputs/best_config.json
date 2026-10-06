@@ -1,0 +1,15 @@
+{
+ "W": 20,
+ "1": {
+  "max_depth": 3,
+  "n_estimators": 1
+ },
+ "3": {
+  "max_depth": 7,
+  "n_estimators": 240
+ },
+ "5": {
+  "max_depth": 7,
+  "n_estimators": 127
+ }
+}
